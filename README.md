@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PraptiMedhi/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PraptiMedhi/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/PraptiMedhi/dsa/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PraptiMedhi/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PraptiMedhi/dsa/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
