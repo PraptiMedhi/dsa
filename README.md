@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PraptiMedhi/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PraptiMedhi/dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/PraptiMedhi/dsa/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/PraptiMedhi/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/PraptiMedhi/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
