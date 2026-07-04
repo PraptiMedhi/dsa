@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PraptiMedhi/dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PraptiMedhi/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/PraptiMedhi/dsa/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PraptiMedhi/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/PraptiMedhi/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PraptiMedhi/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
