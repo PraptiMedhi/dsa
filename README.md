@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PraptiMedhi/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 ## Math
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PraptiMedhi/dsa/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
