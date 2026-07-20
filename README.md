@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/PraptiMedhi/dsa/tree/master/0485-max-consecutive-ones) |
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraptiMedhi/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
