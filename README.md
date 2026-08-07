@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PraptiMedhi/dsa/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/PraptiMedhi/dsa/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
 ## Merge Sort
