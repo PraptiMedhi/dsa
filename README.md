@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PraptiMedhi/dsa/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PraptiMedhi/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PraptiMedhi/dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/PraptiMedhi/dsa/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/PraptiMedhi/dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -199,8 +202,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
