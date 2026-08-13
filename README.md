@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/PraptiMedhi/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PraptiMedhi/dsa/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PraptiMedhi/dsa/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/PraptiMedhi/dsa/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/PraptiMedhi/dsa/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
