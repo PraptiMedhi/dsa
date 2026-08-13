@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/PraptiMedhi/dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PraptiMedhi/dsa/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/PraptiMedhi/dsa/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/PraptiMedhi/dsa/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
