@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraptiMedhi/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
