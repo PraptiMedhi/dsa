@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PraptiMedhi/dsa/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraptiMedhi/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/PraptiMedhi/dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PraptiMedhi/dsa/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PraptiMedhi/dsa/tree/master/0303-range-sum-query-immutable) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PraptiMedhi/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PraptiMedhi/dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraptiMedhi/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PraptiMedhi/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/PraptiMedhi/dsa/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PraptiMedhi/dsa/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PraptiMedhi/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/PraptiMedhi/dsa/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
