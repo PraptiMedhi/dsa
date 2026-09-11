@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PraptiMedhi/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PraptiMedhi/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PraptiMedhi/dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PraptiMedhi/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PraptiMedhi/dsa/tree/master/3875-construct-uniform-parity-array-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PraptiMedhi/dsa/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/PraptiMedhi/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PraptiMedhi/dsa/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PraptiMedhi/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
