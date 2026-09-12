@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/PraptiMedhi/dsa/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/PraptiMedhi/dsa/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PraptiMedhi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/PraptiMedhi/dsa/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/PraptiMedhi/dsa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PraptiMedhi/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PraptiMedhi/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
+| [0788-rotated-digits](https://github.com/PraptiMedhi/dsa/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/PraptiMedhi/dsa/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
