@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/PraptiMedhi/dsa/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PraptiMedhi/dsa/tree/master/0071-simplify-path) |
 | [0796-rotate-string](https://github.com/PraptiMedhi/dsa/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
