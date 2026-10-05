@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PraptiMedhi/dsa/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PraptiMedhi/dsa/tree/master/0071-simplify-path) |
 | [0796-rotate-string](https://github.com/PraptiMedhi/dsa/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PraptiMedhi/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/PraptiMedhi/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PraptiMedhi/dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/PraptiMedhi/dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -361,5 +363,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
