@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PraptiMedhi/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PraptiMedhi/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PraptiMedhi/dsa/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/PraptiMedhi/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PraptiMedhi/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PraptiMedhi/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PraptiMedhi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PraptiMedhi/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PraptiMedhi/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PraptiMedhi/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PraptiMedhi/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PraptiMedhi/dsa/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
 ## Bracket Sequences
 |  |
 | ------- |
