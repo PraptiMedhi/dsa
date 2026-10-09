@@ -6,11 +6,10 @@ public:
         for (int i = 0; i < s.size(); i++) {
             if (s[i] == '(') open++;
             else {
-                // Step 1: make a "))"
+             
                 if (i + 1 < s.size() && s[i + 1] == ')') i++;
                 else ans++;
 
-                // Step 2: find its '('
                 if (open > 0) open--;
                 else ans++;
             }
