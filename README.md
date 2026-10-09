@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/PraptiMedhi/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PraptiMedhi/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PraptiMedhi/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PraptiMedhi/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PraptiMedhi/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PraptiMedhi/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/PraptiMedhi/dsa/tree/master/2540-minimum-common-value) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PraptiMedhi/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PraptiMedhi/dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PraptiMedhi/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PraptiMedhi/dsa/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
