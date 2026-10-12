@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/PraptiMedhi/dsa/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/PraptiMedhi/dsa/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/PraptiMedhi/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PraptiMedhi/dsa/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/PraptiMedhi/dsa/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/PraptiMedhi/dsa/tree/master/0678-valid-parenthesis-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/PraptiMedhi/dsa/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PraptiMedhi/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PraptiMedhi/dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PraptiMedhi/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
