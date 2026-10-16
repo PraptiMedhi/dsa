@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/PraptiMedhi/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PraptiMedhi/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PraptiMedhi/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PraptiMedhi/dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PraptiMedhi/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PraptiMedhi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PraptiMedhi/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PraptiMedhi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PraptiMedhi/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PraptiMedhi/dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PraptiMedhi/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PraptiMedhi/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PraptiMedhi/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PraptiMedhi/dsa/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PraptiMedhi/dsa/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PraptiMedhi/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/PraptiMedhi/dsa/tree/master/3074-apple-redistribution-into-boxes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/PraptiMedhi/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PraptiMedhi/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
