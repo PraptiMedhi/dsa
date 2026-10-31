@@ -10,95 +10,38 @@
  * };
  */
 class Solution {
-  public:
-    // step 1: create nodeToParent mapping
-    // step 2: return target node
-    TreeNode* createParentMapping(TreeNode* root, int target,
-                              map<TreeNode*, TreeNode*> &nodeToParent) {
+public:
+    int ans;
 
-        TreeNode* res = NULL;
-
-        queue<TreeNode*> q;
-        q.push(root);
-        nodeToParent[root] = NULL;
-
-        while(!q.empty()) {
-
-            TreeNode* front = q.front();
-            q.pop();
-
-            if(front->val == target) {
-                res = front;
-            }
-
-            if(front->left) {
-                nodeToParent[front->left] = front;
-                q.push(front->left);
-            }
-
-            if(front->right) {
-                nodeToParent[front->right] = front;
-                q.push(front->right);
-            }
+    pair<int,int> dfs(TreeNode* root, int start) {
+        if (root == nullptr) {
+            return {0, 0};
         }
-        return res;
+
+        pair<int,int> left = dfs(root->left, start);
+        pair<int,int> rt = dfs(root->right, start);
+
+        if (root->val == start) {
+            ans = max(ans, max(left.first, rt.first));
+            return {1, 1};
+        }
+
+        if (left.second == 0 && rt.second == 0) {
+            return {1 + max(left.first, rt.first), 0};
+        }
+
+        if (left.second == 1) {
+            ans = max(ans, rt.first + left.first);
+            return {left.first + 1, 1};
+        }
+
+        ans = max(ans, left.first + rt.first);
+        return {rt.first + 1, 1};
     }
 
-    int burnTree(TreeNode* root, map<TreeNode*, TreeNode*> &nodeToParent) {
-
-        map<TreeNode*, bool> visited;
-        queue<TreeNode*> q;
-
-        q.push(root);
-        visited[root] = true;
-
-        int ans = 0;
-
-        while(!q.empty()) {
-
-            bool flag = 0;
-            int size = q.size();
-            for(int i = 0; i < size; i++) {
-                // process neighbouring nodes
-                TreeNode* front = q.front();
-                q.pop();
-
-                if(front->left && !visited[front->left]) {
-                    flag = 1;
-                    q.push(front->left);
-                    visited[front->left] = 1;
-                }
-
-                if(front->right && !visited[front->right]) {
-                    flag = 1;
-                    q.push(front->right);
-                    visited[front->right] = 1;
-                }
-
-                if(nodeToParent[front] && !visited[nodeToParent[front]]) {
-                    flag = 1;
-                    q.push(nodeToParent[front]);
-                    visited[nodeToParent[front]] = 1;
-                }
-            }
-            if(flag == 1) {
-                ans++;
-            }
-        }
-        return ans;
-    }
-    
     int amountOfTime(TreeNode* root, int start) {
-         // algo:
-        // step 1: create nodeToParent mapping
-        // step 2: find target node
-        // step 3: burn the tree in min time
-
-        map<TreeNode*, TreeNode*> nodeToParent;
-        TreeNode* targetNode = createParentMapping(root, start, nodeToParent);
-
-        int ans = burnTree(targetNode, nodeToParent);
-
+        ans = 0;
+        dfs(root, start);
         return ans;
     }
 };
