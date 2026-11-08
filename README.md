@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PraptiMedhi/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PraptiMedhi/dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PraptiMedhi/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/PraptiMedhi/dsa/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PraptiMedhi/dsa/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PraptiMedhi/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PraptiMedhi/dsa/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PraptiMedhi/dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/PraptiMedhi/dsa/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/PraptiMedhi/dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PraptiMedhi/dsa/tree/master/1302-deepest-leaves-sum) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/PraptiMedhi/dsa/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -460,4 +462,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/PraptiMedhi/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PraptiMedhi/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PraptiMedhi/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PraptiMedhi/dsa/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PraptiMedhi/dsa/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
